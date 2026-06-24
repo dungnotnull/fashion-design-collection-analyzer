@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "crossref-jfmm",
+      "name": "Journal of Fashion Marketing and Management (Crossref)",
+      "type": "crossref",
+      "query": "fashion marketing management merchandising sustainability",
+      "issn": "1361-2026"
+    },
+    {
+      "id": "crossref-fashion",
+      "name": "Fashion Research (Crossref)",
+      "type": "crossref",
+      "query": "fashion design collection trend forecast textile"
+    },
+    {
+      "id": "arxiv-fashion",
+      "name": "arXiv Fashion/Textile Research",
+      "type": "arxiv",
+      "query": "fashion OR textile OR merchandising OR sustainability"
+    },
+    {
+      "id": "rss-bof",
+      "name": "Business of Fashion",
+      "type": "rss",
+      "query": "fashion business analysis",
+      "url": "https://www.businessoffashion.com/rss/"
+    },
+    {
+      "id": "rss-vogue",
+      "name": "Vogue Runway",
+      "type": "rss",
+      "query": "runway collection review",
+      "url": "https://www.vogue.com/rss/"
+    },
+    {
+      "id": "rss-pantone",
+      "name": "Pantone Color Institute",
+      "type": "rss",
+      "query": "Pantone color of the year seasonal palette",
+      "url": "https://www.pantone.com/articles/rss"
+    },
+    {
+      "id": "ddg-trends",
+      "name": "DuckDuckGo Trend Search",
+      "type": "duckduckgo",
+      "query": "fashion trend forecast season 2026"
+    },
+    {
+      "id": "ddg-sustainable-textile",
+      "name": "DuckDuckGo Sustainable Textile Search",
+      "type": "duckduckgo",
+      "query": "sustainable textile innovation 2026"
+    },
+    {
+      "id": "ddg-merchandising",
+      "name": "DuckDuckGo Merchandising Search",
+      "type": "duckduckgo",
+      "query": "merchandising line plan strategy fashion"
+    },
+    {
+      "id": "crawl4ai-pantone",
+      "name": "Pantone crawl4ai fallback",
+      "type": "crawl4ai",
+      "query": "Pantone color reports",
+      "urls": [
+        "https://www.pantone.com/articles/color-of-the-year",
+        "https://www.pantone.com/articles/pantone-fashion-color-trend-report"
+      ]
+    }
+  ]
+}
